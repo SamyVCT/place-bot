@@ -1,7 +1,7 @@
 arcade==2.6.16
 pymunk>=6.2.1
 numpy
-pillow
+pillow>=10.2.0
 pytest
 opencv-contrib-python>=4.5.5.64
 matplotlib
